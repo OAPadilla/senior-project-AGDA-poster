@@ -1,4 +1,4 @@
-# FIU Senior Project Fall 2018 Poster
+# Florida International University Senior Project Fall 2018 Poster
 <b>[Agenda Management System Application v1.0](https://seniorproject.cis.fiu.edu/seniorprojects/agenda-management-system-v1-0/)</b>
 
 Provided is the poster presented by Oscar Padilla at the FIU College of Engineering & Computing [Fall 2018 Senior Design Project Showcase](https://www.cis.fiu.edu/fall-2018-cec-senior-design-project-showcase/). The poster contains the problem, our product solution, the implementation tools, my personal contributions, and the system design.
