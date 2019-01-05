@@ -18,4 +18,4 @@ This is the first version of the Agenda Management System that was built in coll
 
 ### Note
 
-Due to collaboration with the Miami-Dade County IT Department, project code is publically unavailable but can be provided by request to Oscar Padilla (PadillaOscarA@gmail.com).
+Due to collaboration with the Miami-Dade County IT Department, project code is publically unavailable but can be provided by Oscar Padilla (PadillaOscarA@gmail.com) by request.
